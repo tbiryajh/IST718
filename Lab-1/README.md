@@ -6,7 +6,6 @@ Sources for data
 #Revenue per school for 2016-2017 
 #explanation: https://sports.usatoday.com/2018/06/28/methodology-for-2017-ncaa-athletic-department-revenue-database/
 #source for data: https://sports.usatoday.com/ncaa/finances/
-#https://www.ncaa.org/sites/default/files/2017RES_D1-RevExp_Entire_2017_Final_20180123.pdf
 
 #Football Standings W/L for 2017
 #https://www.sports-reference.com/cfb/years/2017-standings.html
